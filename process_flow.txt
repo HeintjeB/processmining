@@ -1,0 +1,10 @@
+Material picking,Laser Cutting,Bending,Surface Treatment,Assembly,Quality Check
+Material picking,Laser Cutting,Deburring,Bending,Welding,Surface Treatment,Assembly,Quality Check, Packaging
+Material picking,Laser Cutting,Bending,Welding,Bending, Welding,Surface Treatment,Assembly,Quality Check, Packaging
+Material picking,Laser Cutting,Bending,Welding,Deburring, Surface Treatment, Assembly,Quality Check,Packaging
+Material picking,Laser Cutting,Bending,Welding,Surface Treatment,Assembly, Surface Treatment, Quality Check,Assembly,Quality Check,Packaging
+Material picking,Laser Cutting,Bending,Material picking,Welding,Surface Treatment,Assembly,Quality Check,Packaging
+Material picking,Laser Cutting,Bending,Welding,Surface Treatment,Assembly,Quality Check,Assembly,Packaging
+Bending, Welding,Surface Treatment,Assembly,Quality Check,Packaging
+Material picking,Laser Cutting,Bending,Quality Check
+Material picking,Laser Cutting,Bending,Welding,Surface Treatment,Material picking,Assembly,Quality Check
