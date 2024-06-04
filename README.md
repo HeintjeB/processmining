@@ -1,6 +1,6 @@
 # Bring the hidden factory to the surface with process mining
 
-Repo for a detect a hidden factory with process mining.
+Repository for detecting a hidden factory using process mining.
 
 ## Purpose of repo
 
